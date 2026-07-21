@@ -1,0 +1,30 @@
+# Build output
+**/bin/
+**/obj/
+publish/
+
+# Local tools and third-party binaries
+tools/resource_hacker.zip
+tools/ResourceHacker/*
+!tools/ResourceHacker/.gitkeep
+
+# Temporary development files
+work/
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# IDE and user settings
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Operating system files
+Thumbs.db
+Desktop.ini
+.DS_Store

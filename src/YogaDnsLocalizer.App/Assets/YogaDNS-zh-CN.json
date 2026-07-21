@@ -1,0 +1,2312 @@
+{
+  "FormatVersion": "1",
+  "Name": "YogaDNS 简体中文内置翻译",
+  "SourceFile": "",
+  "SourceSha256": "",
+  "Items": [
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&File",
+      "Translation": "文件(&F)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&New Configuration\\tCtrl+N",
+      "Translation": "新建配置(&N)\\tCtrl+N",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Import Configuration...\\tCtrl+I",
+      "Translation": "导入配置(&I)...\\tCtrl+I",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Export Configuration...\\tCtrl+E",
+      "Translation": "导出配置(&E)...\\tCtrl+E",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Check for Product Updates on Startup",
+      "Translation": "启动时检查更新(&U)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Autostart",
+      "Translation": "随系统启动(&A)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "E&xit",
+      "Translation": "退出(&X)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Configuration",
+      "Translation": "配置(&C)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "DNS &Servers...\\tCtrl+S",
+      "Translation": "DNS 服务器(&S)...\\tCtrl+S",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Rules...\\tCtrl+R",
+      "Translation": "解析规则(&R)...\\tCtrl+R",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Advanced...",
+      "Translation": "高级设置(&A)...",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Configuration &Wizard...",
+      "Translation": "配置向导(&W)...",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Service &Manager...",
+      "Translation": "服务管理器(&M)...",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Log",
+      "Translation": "日志(&L)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Screen",
+      "Translation": "界面日志(&S)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Errors Only",
+      "Translation": "仅错误(&E)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Normal",
+      "Translation": "常规(&N)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Verbose",
+      "Translation": "详细(&V)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Debug",
+      "Translation": "调试(&D)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Clear\\tCtrl+X",
+      "Translation": "清空(&C)\\tCtrl+X",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Font Size",
+      "Translation": "字体大小(&F)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Small",
+      "Translation": "小(&S)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Large",
+      "Translation": "大(&L)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Disabled",
+      "Translation": "禁用(&D)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "D&ebug",
+      "Translation": "调试(&E)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Set Log Folder...",
+      "Translation": "设置日志文件夹(&S)...",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Open Log Folder...",
+      "Translation": "打开日志文件夹(&O)...",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Window",
+      "Translation": "窗口(&W)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Icon in the System Tray",
+      "Translation": "最小化到系统托盘(&T)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Help",
+      "Translation": "帮助(&H)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Documentation...",
+      "Translation": "在线文档(&D)...",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&License Key...",
+      "Translation": "许可证密钥(&L)...",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&About...",
+      "Translation": "关于(&A)...",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "SysTray",
+      "Translation": "系统托盘",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Open YogaDNS",
+      "Translation": "打开 YogaDNS(&O)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&DNS Servers",
+      "Translation": "DNS 服务器(&D)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Rules",
+      "Translation": "解析规则(&R)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Exit",
+      "Translation": "退出(&X)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "_POPUP_",
+      "Translation": "快捷菜单",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Reset to Default",
+      "Translation": "恢复默认设置(&R)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Copy Button Image",
+      "Translation": "复制按钮图像(&C)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Delete",
+      "Translation": "删除(&D)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Button Appearance...",
+      "Translation": "按钮外观(&B)...",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Image",
+      "Translation": "图像(&I)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Text",
+      "Translation": "文字(&T)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Image &and Text",
+      "Translation": "图像和文字(&A)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Menu",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Start Group",
+      "Translation": "新建分组(&S)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "DNS Server",
+      "Translation": "DNS 服务器",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "User friendly name:",
+      "Translation": "显示名称：",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Type:",
+      "Translation": "类型：",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "IP address and optional port:",
+      "Translation": "IP 地址（端口可选）：",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "DNSSEC Supported",
+      "Translation": "支持 DNSSEC",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Protocol",
+      "Translation": "协议设置",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "URL:",
+      "Translation": "URL：",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Public key:",
+      "Translation": "公钥：",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Hashes:",
+      "Translation": "哈希值：",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Provider name:",
+      "Translation": "提供商名称：",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Disable query padding",
+      "Translation": "禁用查询填充",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Force TCP",
+      "Translation": "强制使用 TCP",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "<a>Configuration ID:</a>",
+      "Translation": "<a>配置 ID：</a>",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Device name (optional):",
+      "Translation": "设备名称（可选）：",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Use current",
+      "Translation": "使用当前设备",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Use Ultra-Low Latency Network  ",
+      "Translation": "使用超低延迟网络  ",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Use TCP instead of UDP",
+      "Translation": "使用 TCP 代替 UDP",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "OK",
+      "Translation": "确定",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Check",
+      "Translation": "检测",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Static",
+      "Translation": "状态",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Cancel",
+      "Translation": "取消",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Please select DNS protocol.",
+      "Translation": "请选择 DNS 协议。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "No options for DNS relay.",
+      "Translation": "DNS 中继无需额外设置。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Hostname:",
+      "Translation": "主机名：",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "DNS Stamp",
+      "Translation": "DNS Stamp",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "DNS server stamps encode all the parameters required to connect to a DNS server as a single string that is formatted as URL and starts with sdns://",
+      "Translation": "DNS Stamp 将连接 DNS 服务器所需的全部参数编码为一个 URL 格式的字符串，并以 sdns:// 开头。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "DNS Servers",
+      "Translation": "DNS 服务器",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Add...",
+      "Translation": "添加...",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Get from\\nthe web...",
+      "Translation": "从网络\\n获取...",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Edit...",
+      "Translation": "编辑...",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Remove",
+      "Translation": "移除",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Create",
+      "Translation": "新建",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Type...",
+      "Translation": "类型...",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Server Pools",
+      "Translation": "服务器池",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Drag and Drop DNS servers from the list to add them into a pool.\\nA random server from the pool will be used for each request.",
+      "Translation": "将列表中的 DNS 服务器拖入服务器池。\\n每次查询会从池中随机选择一台服务器。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Rules",
+      "Translation": "解析规则",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Up",
+      "Translation": "上移",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Move",
+      "Translation": "排序",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Down",
+      "Translation": "下移",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Clone",
+      "Translation": "复制",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Ignore the rule when its network interface is down.",
+      "Translation": "当关联的网络接口断开时忽略此规则。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Rules are processed from top to bottom. Use Up/Down buttons at the right to change the order.\\nUse check boxes to enable/disable a rule.",
+      "Translation": "规则按从上到下的顺序处理。使用右侧的上移/下移按钮调整优先级。\\n通过复选框启用或禁用规则。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Rule",
+      "Translation": "解析规则",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Enabled",
+      "Translation": "启用",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "From File...",
+      "Translation": "从文件导入...",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Resolve as 0.0.0.0",
+      "Translation": "解析为 0.0.0.0",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Reject unsigned names",
+      "Translation": "拒绝未签名的域名",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Request and validate all signatures",
+      "Translation": "请求并验证所有 DNSSEC 签名",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Name:",
+      "Translation": "名称：",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Hostnames:",
+      "Translation": "主机名：",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Example: www.example.com; *.example.com; *.local",
+      "Translation": "示例：www.example.com; *.example.com; *.local",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Action:",
+      "Translation": "处理方式：",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "DNS Server:",
+      "Translation": "DNS 服务器：",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "DNSSEC:",
+      "Translation": "DNSSEC：",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Import servers from the web",
+      "Translation": "从网络导入服务器",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Mark All",
+      "Translation": "全选",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Import Marked",
+      "Translation": "导入所选",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Reload",
+      "Translation": "重新加载",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Check All",
+      "Translation": "全部检测",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Settings",
+      "Translation": "设置",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Import Settings",
+      "Translation": "导入设置",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Reset to Defaults",
+      "Translation": "恢复默认值",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "URLs with the DNS server list:",
+      "Translation": "DNS 服务器列表 URL：",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Test hostname:",
+      "Translation": "测试域名：",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Servers per time:",
+      "Translation": "每批检测数：",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Check Settings",
+      "Translation": "检测设置",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Configuration Wizard",
+      "Translation": "配置向导",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Start with an empty configuration. \\nAll queries will be unaltered.",
+      "Translation": "从空白配置开始。\\n所有 DNS 查询将保持原样。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Import servers from the web, test and select.",
+      "Translation": "从网络导入服务器，检测后选择可用项。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Import from a YogaDNS configuration file.",
+      "Translation": "从 YogaDNS 配置文件导入。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "< Back",
+      "Translation": "< 上一步",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Next >",
+      "Translation": "下一步 >",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Welcome to YogaDNS!",
+      "Translation": "欢迎使用 YogaDNS！",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "The wizard will help you with the configuration.",
+      "Translation": "此向导将协助你完成初始配置。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Stage description",
+      "Translation": "步骤说明",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Use this provider for all queries",
+      "Translation": "所有查询均使用此提供商",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Or configure manually",
+      "Translation": "或手动配置",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Pool Type",
+      "Translation": "服务器池类型",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Options...",
+      "Translation": "选项...",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Automatically monitor DNS servers and use the best one.",
+      "Translation": "自动监测 DNS 服务器并使用当前表现最佳的一台。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "On each request use a random DNS server from the pool.",
+      "Translation": "每次查询都从服务器池中随机选择一台。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Redundancy",
+      "Translation": "智能优选",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Load Balancing",
+      "Translation": "负载均衡",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Pool Name:",
+      "Translation": "服务器池名称：",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Redundancy Pool Options",
+      "Translation": "智能优选设置",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Recheck in:",
+      "Translation": "重新检测间隔：",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "(seconds)",
+      "Translation": "（秒）",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "About YogaDNS",
+      "Translation": "关于 YogaDNS",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Enter License Key...",
+      "Translation": "输入许可证密钥...",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Don't show on startup",
+      "Translation": "启动时不再显示",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Version info",
+      "Translation": "版本信息",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "<a href=\"https://www.yogadns.com/pricing/buy.html\">Buy Pro version now</a>",
+      "Translation": "<a href=\"https://www.yogadns.com/pricing/buy.html\">立即购买专业版</a>",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "\\n\\xA9 2018-2025 VentoByte SL. All rights reserved.",
+      "Translation": "\\n\\xA9 2018-2025 VentoByte SL。保留所有权利。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Advanced Network Interface",
+      "Translation": "高级网络接口条件",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Attribute:",
+      "Translation": "属性：",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Value:",
+      "Translation": "值：",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Use network interface that has the following attribute:",
+      "Translation": "仅使用符合以下条件的网络接口：",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Advanced Settings",
+      "Translation": "高级设置",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Clear DNS cache on configuration change",
+      "Translation": "配置变更后清空 DNS 缓存",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Intercept DNS packets injected by third party filters",
+      "Translation": "拦截第三方过滤器注入的 DNS 数据包",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Block plain DNS over TCP from System Resolver",
+      "Translation": "阻止系统解析器发出的明文 TCP DNS 查询",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Enable captive portal detection",
+      "Translation": "启用强制门户检测",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Defaults",
+      "Translation": "默认值",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Override TTL to match the following range",
+      "Translation": "将 TTL 限制在以下范围内",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Min:",
+      "Translation": "最小值：",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Max:",
+      "Translation": "最大值：",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Dialog",
+      "Translation": "提示",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Do not show this message again",
+      "Translation": "不再显示此消息",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "License Registration",
+      "Translation": "许可证注册",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Current user only",
+      "Translation": "仅当前用户",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "All users on this computer\\n(require administrator)",
+      "Translation": "此计算机上的所有用户\\n（需要管理员权限）",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Please enter your registration information",
+      "Translation": "请输入注册信息",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Your name or company name:",
+      "Translation": "姓名或公司名称：",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Your license key:",
+      "Translation": "许可证密钥：",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Set this license for",
+      "Translation": "许可证适用范围",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Commands",
+      "Translation": "命令",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Toolbars",
+      "Translation": "工具栏",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Toolbar Name",
+      "Translation": "工具栏名称",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Button Appearance",
+      "Translation": "按钮外观",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Edit Button Image",
+      "Translation": "编辑按钮图像",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Menu",
+      "Translation": "菜单",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Mouse",
+      "Translation": "鼠标",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Keyboard",
+      "Translation": "键盘",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Options",
+      "Translation": "选项",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Windows",
+      "Translation": "窗口",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Tools",
+      "Translation": "工具",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Colors",
+      "Translation": "颜色",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Standard",
+      "Translation": "标准",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Custom",
+      "Translation": "自定义",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Navigation Pane Options",
+      "Translation": "导航窗格选项",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Customize",
+      "Translation": "自定义",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Customize Keyboard",
+      "Translation": "自定义键盘快捷键",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "Dialog",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "New",
+      "Translation": "新建",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&About YogaDNS...",
+      "Translation": "关于 YogaDNS(&A)...",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Import an existing configuration from a file\\nImport Configuration",
+      "Translation": "从文件导入已有配置\\n导入配置",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Clear screen log\\nClear",
+      "Translation": "清空界面日志\\n清空",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Set log folder",
+      "Translation": "设置日志文件夹",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Open log folder in File Explorer\\nOpen Log Folder",
+      "Translation": "在文件资源管理器中打开日志文件夹\\n打开日志文件夹",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Export current configuration to a file\\nExport Configuration",
+      "Translation": "将当前配置导出到文件\\n导出配置",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Exit from the program\\nExit",
+      "Translation": "退出程序\\n退出",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Start the program automatically when Windows starts for the current user\\nAutostart",
+      "Translation": "当前用户登录 Windows 时自动启动程序\\n随系统启动",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Open the list of DNS servers\\nDNS Servers",
+      "Translation": "打开 DNS 服务器列表\\nDNS 服务器",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Open the rules\\nRules",
+      "Translation": "打开解析规则\\n解析规则",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "About YogaDNS",
+      "Translation": "关于 YogaDNS",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Screen log will output errors only\\nErrors Only",
+      "Translation": "界面日志仅显示错误\\n仅错误",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Normal screen log\\nNormal",
+      "Translation": "界面日志采用常规详细程度\\n常规",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Verbose screen log\\nVerbose",
+      "Translation": "界面日志显示详细信息\\n详细",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Debug screen log\\nDebug",
+      "Translation": "界面日志显示调试信息\\n调试",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Disable file log\\nDisabled",
+      "Translation": "不写入日志文件\\n禁用",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "File log will output errors only\\nErrors Only",
+      "Translation": "文件日志仅记录错误\\n仅错误",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Normal file log\\nNormal",
+      "Translation": "文件日志采用常规详细程度\\n常规",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Verbose file log\\nVerbose",
+      "Translation": "文件日志记录详细信息\\n详细",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Debug file log\\nDebug",
+      "Translation": "文件日志记录调试信息\\n调试",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "On start check for the new version of the program\\nCheck for Product Updates on Startup",
+      "Translation": "启动时检查 YogaDNS 新版本\\n启动时检查更新",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Show icon in the System Tray and hide the main window when closed\\nIcon in The System Tray",
+      "Translation": "在系统托盘显示图标，关闭主窗口时将其隐藏\\n最小化到系统托盘",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Online Documentation",
+      "Translation": "在线文档",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "The wizard helps to configure YogaDNS\\nConfiguration Start Wizard",
+      "Translation": "通过向导配置 YogaDNS\\n配置向导",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Enable broken_query_padding option for all DNSCrypt servers",
+      "Translation": "为所有 DNSCrypt 服务器启用 broken_query_padding 选项",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Use small font in the log window\\nSmall Font",
+      "Translation": "日志窗口使用小号字体\\n小号字体",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Use large font in the log window\\nLarge Font",
+      "Translation": "日志窗口使用大号字体\\n大号字体",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Run YogaDNS Service Manager tool...\\nService Manager",
+      "Translation": "运行 YogaDNS 服务管理器...\\n服务管理器",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Enter or change the license key\\nLicense Key",
+      "Translation": "输入或更改许可证密钥\\n许可证密钥",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Open Advanced Settings\\nOpen Advanced Settings",
+      "Translation": "打开高级设置\\n高级设置",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Create a new configuration with default values\\nNew Configuration",
+      "Translation": "使用默认值新建配置\\n新建配置",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Online documentation",
+      "Translation": "在线文档",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Open",
+      "Translation": "打开",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Save As",
+      "Translation": "另存为",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "All Files (*.*)",
+      "Translation": "所有文件 (*.*)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Untitled",
+      "Translation": "未命名",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "an unnamed file",
+      "Translation": "未命名文件",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "&Hide",
+      "Translation": "隐藏(&H)",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "No error message is available.",
+      "Translation": "没有可用的错误说明。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Attempted an unsupported operation.",
+      "Translation": "尝试执行不受支持的操作。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "A required resource was unavailable.",
+      "Translation": "所需资源不可用。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Out of memory.",
+      "Translation": "内存不足。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "An unknown error has occurred.",
+      "Translation": "发生未知错误。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Encountered an improper argument.",
+      "Translation": "参数无效。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Incorrect filename.",
+      "Translation": "文件名不正确。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Failed to open document.",
+      "Translation": "无法打开文件。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Failed to save document.",
+      "Translation": "无法保存文件。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Save changes to %1?",
+      "Translation": "是否保存对 %1 的更改？",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Failed to create empty document.",
+      "Translation": "无法创建空白文件。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "The file is too large to open.",
+      "Translation": "文件过大，无法打开。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Could not start print job.",
+      "Translation": "无法启动打印任务。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Failed to launch help.",
+      "Translation": "无法打开帮助。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Internal application error.",
+      "Translation": "应用程序内部错误。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Command failed.",
+      "Translation": "命令执行失败。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Insufficient memory to perform operation.",
+      "Translation": "内存不足，无法完成操作。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "This program requires the file %Ts, which was not found on this system.",
+      "Translation": "程序需要文件 %Ts，但系统中未找到该文件。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "This program is linked to the missing export %Ts in the file %Ts. This machine may have an incompatible version of %Ts.",
+      "Translation": "程序需要文件 %Ts 中导出的 %Ts，但该导出项不存在。本机的 %Ts 版本可能不兼容。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Enter an integer.",
+      "Translation": "请输入整数。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Enter a number.",
+      "Translation": "请输入数值。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Enter an integer between %1 and %2.",
+      "Translation": "请输入 %1 到 %2 之间的整数。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Enter a number between %1 and %2.",
+      "Translation": "请输入 %1 到 %2 之间的数值。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Enter no more than %1 characters.",
+      "Translation": "输入内容不能超过 %1 个字符。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Select a button.",
+      "Translation": "请选择一个按钮。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Enter an integer between 0 and 255.",
+      "Translation": "请输入 0 到 255 之间的整数。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Enter a positive integer.",
+      "Translation": "请输入正整数。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Enter a date and/or time.",
+      "Translation": "请输入日期和/或时间。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Enter a GUID.",
+      "Translation": "请输入 GUID。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Enter a time.",
+      "Translation": "请输入时间。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Enter a date.",
+      "Translation": "请输入日期。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Unexpected file format.",
+      "Translation": "文件格式不受支持或已损坏。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "%1\\nCannot find this file.\\nVerify that the correct path and file name are given.",
+      "Translation": "%1\\n找不到此文件。\\n请确认路径和文件名是否正确。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Destination disk drive is full.",
+      "Translation": "目标磁盘空间不足。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Unable to read from %1, it is opened by someone else.",
+      "Translation": "无法读取 %1，该文件正被其他程序占用。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Unable to write to %1, it is read-only or opened by someone else.",
+      "Translation": "无法写入 %1，该文件为只读或正被其他程序占用。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Encountered an unexpected error while reading %1.",
+      "Translation": "读取 %1 时发生意外错误。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    },
+    {
+      "ResourceType": "String",
+      "ResourceId": 0,
+      "ControlId": 0,
+      "Original": "Encountered an unexpected error while writing %1.",
+      "Translation": "写入 %1 时发生意外错误。",
+      "Context": "内置语境翻译",
+      "Status": "已翻译"
+    }
+  ]
+}

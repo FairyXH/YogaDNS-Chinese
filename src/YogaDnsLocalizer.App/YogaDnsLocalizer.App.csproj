@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <AssemblyName>YogaDNS汉化工具</AssemblyName>
+    <Product>YogaDNS 汉化工具</Product>
+    <Description>适配不同版本 YogaDNS.exe 的资源级简体中文本地化工具</Description>
+    <Version>1.0.0</Version>
+    <DebugType>None</DebugType>
+    <DebugSymbols>false</DebugSymbols>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\YogaDnsLocalizer.Core\YogaDnsLocalizer.Core.csproj" />
+    <Content Include="Assets\YogaDNS-zh-CN.json"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory><CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory></Content>
+  </ItemGroup>
+  <Target Name="CopyResourceHacker" AfterTargets="Build">
+    <MakeDir Directories="$(OutDir)tools" />
+    <Copy SourceFiles="$(MSBuildProjectDirectory)\..\..\tools\ResourceHacker\ResourceHacker.exe" DestinationFolder="$(OutDir)tools" />
+  </Target>
+  <Target Name="CopyResourceHackerToPublish" AfterTargets="Publish">
+    <MakeDir Directories="$(PublishDir)tools" />
+    <Copy SourceFiles="$(MSBuildProjectDirectory)\..\..\tools\ResourceHacker\ResourceHacker.exe" DestinationFolder="$(PublishDir)tools" />
+  </Target>
+</Project>

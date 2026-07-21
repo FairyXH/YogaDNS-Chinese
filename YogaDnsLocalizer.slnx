@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/YogaDnsLocalizer.App/YogaDnsLocalizer.App.csproj" />
+    <Project Path="src/YogaDnsLocalizer.Core/YogaDnsLocalizer.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/YogaDnsLocalizer.Tests/YogaDnsLocalizer.Tests.csproj" />
+  </Folder>
+</Solution>

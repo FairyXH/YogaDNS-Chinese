@@ -1,0 +1,31 @@
+﻿<Window x:Class="YogaDnsLocalizer.App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="YogaDNS 汉化工具" Height="660" Width="960" MinHeight="540" MinWidth="780"
+        WindowStartupLocation="CenterScreen"
+        Background="#F4F6F8" FontFamily="Microsoft YaHei UI, Microsoft YaHei, Segoe UI">
+    <Window.Resources>
+        <SolidColorBrush x:Key="TextBrush" Color="#17212B"/><SolidColorBrush x:Key="MutedBrush" Color="#607080"/><SolidColorBrush x:Key="SurfaceBrush" Color="#FFFFFF"/><SolidColorBrush x:Key="BorderBrushSoft" Color="#D9E0E7"/><SolidColorBrush x:Key="AccentBrush" Color="#1769AA"/>
+        <Style TargetType="TextBlock"><Setter Property="Foreground" Value="{StaticResource TextBrush}"/><Setter Property="VerticalAlignment" Value="Center"/></Style>
+        <Style TargetType="Button"><Setter Property="Padding" Value="14,8"/><Setter Property="Margin" Value="0,0,8,0"/><Setter Property="FontSize" Value="14"/><Setter Property="Background" Value="#FFFFFF"/><Setter Property="Foreground" Value="{StaticResource TextBrush}"/><Setter Property="BorderBrush" Value="{StaticResource BorderBrushSoft}"/></Style>
+        <Style x:Key="PrimaryButton" TargetType="Button" BasedOn="{StaticResource {x:Type Button}}"><Setter Property="Background" Value="{StaticResource AccentBrush}"/><Setter Property="Foreground" Value="White"/><Setter Property="BorderBrush" Value="{StaticResource AccentBrush}"/></Style>
+        <Style TargetType="DataGridColumnHeader"><Setter Property="Padding" Value="10,9"/><Setter Property="Background" Value="#EDF1F5"/><Setter Property="Foreground" Value="{StaticResource TextBrush}"/><Setter Property="FontWeight" Value="SemiBold"/></Style>
+        <Style TargetType="DataGridCell"><Setter Property="Padding" Value="8,7"/><Setter Property="Foreground" Value="{StaticResource TextBrush}"/></Style><Style TargetType="DataGridRow"><Setter Property="MinHeight" Value="40"/></Style>
+    </Window.Resources>
+    <Grid Margin="24">
+        <Grid.RowDefinitions><RowDefinition Height="Auto"/><RowDefinition Height="Auto"/><RowDefinition Height="Auto"/><RowDefinition Height="*"/><RowDefinition Height="Auto"/></Grid.RowDefinitions>
+        <StackPanel Grid.Row="0"><TextBlock Text="YogaDNS 汉化工具" FontSize="26" FontWeight="SemiBold"/><TextBlock Text="面向不同版本的资源级本地化工具，不修改原始文件。" Foreground="{StaticResource MutedBrush}" Margin="0,5,0,18"/></StackPanel>
+        <Border Grid.Row="1" Background="{StaticResource SurfaceBrush}" BorderBrush="{StaticResource BorderBrushSoft}" BorderThickness="1" Padding="16" CornerRadius="8" Margin="0,0,0,12">
+            <Grid><Grid.RowDefinitions><RowDefinition Height="Auto"/><RowDefinition Height="Auto"/><RowDefinition Height="Auto"/></Grid.RowDefinitions><Grid.ColumnDefinitions><ColumnDefinition Width="110"/><ColumnDefinition Width="*"/><ColumnDefinition Width="Auto"/></Grid.ColumnDefinitions>
+                <TextBlock Text="目标程序" Grid.Row="0"/><TextBox Text="{Binding ExePath, UpdateSourceTrigger=PropertyChanged}" Grid.Row="0" Grid.Column="1" Margin="0,0,12,8" Padding="8"/><Button Content="选择 EXE" Grid.Row="0" Grid.Column="2" Click="ChooseExe_Click"/>
+                <TextBlock Text="翻译文件" Grid.Row="1"/><TextBox Text="{Binding TranslationPath, UpdateSourceTrigger=PropertyChanged}" Grid.Row="1" Grid.Column="1" Margin="0,0,12,8" Padding="8"/><WrapPanel Grid.Row="1" Grid.Column="2"><Button Content="导出模板" Click="Export_Click"/><Button Content="导入翻译" Click="Import_Click"/><Button Content="内置翻译" Click="Builtin_Click"/><Button Content="保存" Click="Save_Click"/></WrapPanel>
+                <TextBlock Text="生成" Grid.Row="2"/><StackPanel Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2" Orientation="Horizontal"><Button Content="生成汉化 EXE" Style="{StaticResource PrimaryButton}" Click="Apply_Click"/><TextBlock Text="写入简体中文资源（2052），保留英文资源；修改后原厂数字签名会失效。" Foreground="{StaticResource MutedBrush}" Margin="12,0,0,0"/></StackPanel>
+            </Grid>
+        </Border>
+        <Grid Grid.Row="2" Margin="0,0,0,12"><Grid.ColumnDefinitions><ColumnDefinition Width="*"/><ColumnDefinition Width="Auto"/></Grid.ColumnDefinitions><TextBox Text="{Binding SearchText, UpdateSourceTrigger=PropertyChanged}" Padding="10,8" ToolTip="搜索原文、译文或上下文"/><CheckBox Grid.Column="1" Content="只看未翻译" IsChecked="{Binding ShowMissingOnly}" VerticalAlignment="Center" Margin="18,0,4,0"/></Grid>
+        <Border Grid.Row="3" Background="{StaticResource SurfaceBrush}" BorderBrush="{StaticResource BorderBrushSoft}" BorderThickness="1" CornerRadius="8" ClipToBounds="True">
+            <DataGrid ItemsSource="{Binding VisibleItems}" AutoGenerateColumns="False" CanUserAddRows="False" CanUserDeleteRows="False" IsReadOnly="False" HeadersVisibility="Column" GridLinesVisibility="Horizontal" BorderThickness="0" Margin="1" ScrollViewer.HorizontalScrollBarVisibility="Auto"><DataGrid.Columns><DataGridTextColumn Header="类型" Binding="{Binding ResourceType}" IsReadOnly="True" Width="80"/><DataGridTextColumn Header="资源 ID" Binding="{Binding ResourceId}" IsReadOnly="True" Width="75"/><DataGridTextColumn Header="控件 ID" Binding="{Binding ControlId}" IsReadOnly="True" Width="75"/><DataGridTextColumn Header="原文" Binding="{Binding Original}" IsReadOnly="True" Width="2*"/><DataGridTextColumn Header="译文（可编辑）" Binding="{Binding Translation, UpdateSourceTrigger=PropertyChanged}" Width="2*"/><DataGridTextColumn Header="上下文" Binding="{Binding Context}" IsReadOnly="True" Width="150"/></DataGrid.Columns></DataGrid>
+        </Border>
+        <Border Grid.Row="4" Background="#E8EDF2" Padding="12,9" Margin="0,14,0,0" CornerRadius="6"><TextBlock Text="{Binding Status}" Foreground="{StaticResource MutedBrush}"/></Border>
+    </Grid>
+</Window>
