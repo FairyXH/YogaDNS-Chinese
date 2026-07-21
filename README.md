@@ -1,6 +1,6 @@
-# YogaDNS 中文本地化工具
+# YogaDNS 简体中文汉化工具
 
-面向 Windows 的 [YogaDNS](https://www.yogadns.com/) 资源级简体中文本地化工具。它能够从不同版本的 `YogaDNS.exe` 中提取可翻译文本、复用内置或自定义翻译，并生成独立的汉化副本。
+面向 Windows 的 [YogaDNS](https://www.yogadns.com/) 资源级简体中文本地化工具。它能够从不同版本的 `YogaDNS.exe` 中提取可翻译文本、复用内置或自定义翻译，并生成独立的汉化副本。注意，汉化不保证100%翻译完全，仍有部分英文界面。
 
 > 本项目是社区本地化工具，与 YogaDNS 官方无隶属或合作关系。使用前请确认你有权修改目标程序，并遵守 YogaDNS 和相关第三方软件的许可条款。
 
